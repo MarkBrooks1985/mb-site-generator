@@ -7,3 +7,8 @@ For this challenge/project we had to develop a node js application that generate
 ## Images and links:
 
 Below is a link to the repository:
+
+https://github.com/MarkBrooks1985/mb-site-generator
+
+![This is an Image](./assets/images/1.png)
+![This is an Image](./assets/images/2.png)
