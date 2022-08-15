@@ -4,7 +4,6 @@ const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const generateHtml = require("./src/generateHtml");
 const fs = require("fs");
-const { inherits } = require("util");
 
 const teamMembers = [];
 
